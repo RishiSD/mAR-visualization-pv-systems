@@ -1,0 +1,25 @@
+# Created with FME Version: FME(R) 2020.0.2.1 20200511 - Build 20238 - linux-x64
+newmtl tex_4
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_4.jpg
+
+newmtl tex_2
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_2.jpg
+
+newmtl tex_3
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_3.jpg
+
+newmtl tex_0
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_0.jpg
+
+newmtl tex_1
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_1.jpg
+
+newmtl tex_5
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_5.jpg
+
